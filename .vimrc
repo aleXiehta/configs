@@ -26,6 +26,7 @@ let g:airline_solarized_bg='dark'
 set nu
 set noshowmode
 imap jj <Esc>
+set mouse=a
 
 set history=50
 set ruler
