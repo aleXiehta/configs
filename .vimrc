@@ -43,6 +43,7 @@ set copyindent
 set ignorecase
 set smartcase
 set smarttab
+set backspace=indent,eol,start
 
 " disable sound on errors
 set noerrorbells
